@@ -1,6 +1,10 @@
 [package]
 name = "mu_core_types"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Tyrel Richey <ty.mu.tech.industries@gmail.com>"]
+description = "Extension of Rust core types for MuTechIndustries."
+license = "MIT"
+documentation = "https://github.com/MuTechIndustries/mu_core_types"
+homepage = "https://github.com/MuTechIndustries/mu_core_types"
 
 [dependencies]
